@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p class="center-align">
     <a href="https://github.com/MOxFIVE/hexo-theme-yelee"  target="_blank">
         <img src="http://moxfive.github.io/resources/yelee-mockup.jpg"
@@ -61,13 +60,12 @@
 </p>
 
 <p align="center">
->>>>>>> zhiiker
+
     <a href="http://moxfive.xyz" target="_blank">
         <img src="http://moxfive.github.io/resources/yelee-qrcode.png">
     </a>
 </p>
 
-<<<<<<< HEAD
 ## [新特性](/new-features.html)
 
 | - |            New           |
@@ -100,7 +98,6 @@
 [4]: https://github.com/MOxFIVE/hexo-theme-yelee/commits/master
 [5]: http://moxfive.xyz/2015/08/20/blog-building/ "个人博客站点建设历程"
 [6]: http://moxfive.xyz
-=======
 <h3 align="center">
     <a href="http://MOxFIVE.coding.me/yelee" target="_blank">
         Yelee 主题使用说明 [简中]
@@ -296,4 +293,3 @@ Baidu: [hexo-generator-baidu-sitemap](https://github.com/coneycode/hexo-generato
 The Path is `/yelee/source/apple-touch-icon.png`
 
 [Recommended size: 180*180](https://realfavicongenerator.net/blog/apple-touch-icon-the-good-the-bad-the-ugly/)
->>>>>>> zhiiker
