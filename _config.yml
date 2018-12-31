@@ -44,7 +44,7 @@ since: 2014
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "mailto:i@liangs.me"
+  Email: "mailto:&#105;&#64;&#108;&#105;&#97;&#110;&#103;&#115;&#46;&#109;&#101;"
   RSS: "http://www.liangshichao.com/atom.xml"  
   GitHub: "https://github.com/wmwwmv"
   Quora: "https://www.quora.com/profile/Shaun-Leung-2"
@@ -151,7 +151,7 @@ color_scheme: yilia
 highlight_style:
   on: true
   inline_code: 4  # Value: 0 - 9 可选
-  code_block: 1  # Value: 0 - 4
+  code_block: 0  # Value: 0 - 4
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式
