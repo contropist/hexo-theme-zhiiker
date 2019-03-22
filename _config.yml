@@ -47,7 +47,7 @@ subnav:
   Email: "mailto:&#105;&#64;&#108;&#105;&#97;&#110;&#103;&#115;&#46;&#109;&#101;"
   RSS: "http://www.liangshichao.com/atom.xml"  
   GitHub: "https://github.com/wmwwmv"
-  Quora: "https://www.quora.com/profile/Shaun-Leung-2"
+  Quora: "https://www.quora.com/profile/Shichao-Liang-1"
   Medium: "https://medium.com/@zhiiker"
   Coding: "https://dev.tencent.com/u/shichao"
   V2EX: "https://www.v2ex.com/member/wmwwmv"
@@ -69,7 +69,7 @@ subnav:
   LinkedIn: "https://cn.linkedin.com/in/liangshichao"
   QQ: "https://images.liangs.me/avatars/qrcode_1521369601487.jpg"
   #微信: "https://images.liangs.me/avatars/mmqrcode1521369577101.png"
-  PayPal: "https://paypal.me/liangshichao"
+  PayPal: "https://paypal.me/realshichao"
   StackOverflow: "http://stackoverflow.com/users/4978576/shaun"
   #CodePen: ""
   #Plunker: ""
@@ -257,7 +257,7 @@ tab_title_change:
 ## https://github.com/PaicHyperionDev/hexo-generator-search
 search:
   on: true
-  onload: false
+  onload: true
   ## true: get search.xml file when the page has loaded
   ## false: get the file when search box gets focus
 
@@ -272,19 +272,19 @@ mathjax: true
 # Socail Share | 是否开启分享
 share:
   on: true
-  baidu: true
-  addthis: false
+  baidu: false
+  addthis: true
   addthis_pubid: "ra-579834e01a3c7cec"
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
   ## and customize AddThis share buttons
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-baidu_site: JkwRhDfGTI
-google_site:
+baidu_site: AiSzeDHJX3nexp0o
+google_site: u5Ae4YVsY4uAkgq5aU6rFKdy9kVDCUajshuCtsdUlIw
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
-google_analytics:
+google_analytics: UA-131531271-1
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容
