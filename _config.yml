@@ -11,7 +11,7 @@ menu:
   所有文章: /archives/
   分类&标签: /tags/
   这里是我: http://is.liangs.me
-  你知道的地方: http://place.liangs.me
+  #你知道的地方: http://place.liangs.me
   #萱苏茶肆: http://www.xuansu.org
   #卮客杂俎: https://notes.liangs.me
   #关于我: /about/
@@ -207,7 +207,7 @@ friends:
   Hexo: https://hexo.io
   GitHub: https://pages.github.com/
   MOxFIVE: http://moxfive.xyz/
-  你知道的地方:http://place.liangs.me
+  你知道的地方: http://place.liangs.me
   卮客杂俎: http://notes.liangs.me/
   非工科技: https://feigong.tech/
   书阁: http://shuge.liangs.me/
