@@ -7,15 +7,15 @@ Yelee: "3.5"
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  主页: /
+  镜像: https://blog.liangs.me
+  这里是我: http://is.liangs.me
   所有文章: /archives/
   分类&标签: /tags/
   你知道的地方: http://place.liangs.me
-  这里是我: http://is.liangs.me
   #萱苏茶肆: http://www.xuansu.org
   #卮客杂俎: https://notes.liangs.me
   #关于我: /about/
-  #关于我: https://hr.liangs.me/public/
+  #关于我: https://hr.liangs.me/public
 
 
 # Link to your avatar | 填写头像地址
@@ -50,13 +50,13 @@ subnav:
   GitHub: "https://github.com/wmwwmv"
   Quora: "https://www.quora.com/profile/Shichao-Liang-1"
   Medium: "https://medium.com/@zhiiker"
-  Coding: "https://dev.tencent.com/u/shichao"
+  #Coding: "https://dev.tencent.com/u/shichao"
   V2EX: "https://www.v2ex.com/member/wmwwmv"
   新浪微博: "http://weibo.com/tobechaos"
   知乎: "https://www.zhihu.com/people/liangshichao"
   豆瓣: "https://www.douban.com/people/tobechaos/"
   简书: "http://www.jianshu.com/u/d5add3cb2d34"
-  SegmentFault: "https://segmentfault.com/u/zhike"
+  #SegmentFault: "https://segmentfault.com/u/zhike"
   博客园: "https://www.cnblogs.com/zhike/"
   CSDN: "http://my.csdn.net/wuye"
   网易云音乐: "http://music.163.com/#/user/home?id=72587395"
@@ -69,7 +69,7 @@ subnav:
   Twitter: "https://twitter.com/zhiiker"
   LinkedIn: "https://cn.linkedin.com/in/liangshichao"
   QQ: "https://images.liangs.me/avatars/qrcode_1521369601487.jpg"
-  #微信: "https://images.liangs.me/avatars/mmqrcode1521369577101.png"
+  #微信: ""
   PayPal: "https://paypal.me/realshichao"
   StackOverflow: "http://stackoverflow.com/users/4978576/shaun"
   #CodePen: ""
