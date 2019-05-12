@@ -50,13 +50,13 @@ subnav:
   GitHub: "https://github.com/wmwwmv"
   Quora: "https://www.quora.com/profile/Shichao-Liang-1"
   Medium: "https://medium.com/@zhiiker"
-  #Coding: "https://dev.tencent.com/u/shichao"
+  Coding: "https://dev.tencent.com/u/shichao"
   V2EX: "https://www.v2ex.com/member/wmwwmv"
   新浪微博: "http://weibo.com/tobechaos"
   知乎: "https://www.zhihu.com/people/liangshichao"
   豆瓣: "https://www.douban.com/people/tobechaos/"
   简书: "http://www.jianshu.com/u/d5add3cb2d34"
-  #SegmentFault: "https://segmentfault.com/u/zhike"
+  SegmentFault: "https://segmentfault.com/u/zhike"
   博客园: "https://www.cnblogs.com/zhike/"
   CSDN: "http://my.csdn.net/wuye"
   网易云音乐: "http://music.163.com/#/user/home?id=72587395"
@@ -283,7 +283,7 @@ share:
 
 # 百度、谷歌站长验证。填写 HTML 标签 content
 # Site Verification for Google and Baidu. HTML label content.
-baidu_site: AiSzeDHJX3nexp0o
+baidu_site: vakk2g9ve5
 google_site: u5Ae4YVsY4uAkgq5aU6rFKdy9kVDCUajshuCtsdUlIw
 
 # Fill in Google Analytics tracking ID, #e.g. UA-XXXXX-X
@@ -291,7 +291,7 @@ google_analytics: UA-131531271-1
 
 # 百度统计 http://sitecenter.baidu.com/sc-web/
 # 查看代码，填入 //hm.baidu.com/hm.js? 之后的内容
-baidu_tongji: 93f5adaab7102213d2cda2ff79ed520a
+baidu_tongji: cb203f30c887d436558853df2a128830
 
 # 不蒜子网站计数设置
 # http://ibruce.info/2015/04/04/busuanzi/
